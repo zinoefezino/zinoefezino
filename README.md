@@ -66,11 +66,6 @@ Tech used: React, Tailwind CSS
 
 ---
 
-### GitHub activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zinoefezino&show_icons=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinoefezino&layout=compact&theme=tokyonight)
 
 ---
 
